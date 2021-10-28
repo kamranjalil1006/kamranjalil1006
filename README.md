@@ -8,7 +8,7 @@ I am a Flutter App-Developer (Front-end), a Tech Enthusiast, an Astrophile, and 
    - I’m looking for an opportunity to work with and learn from highly skilled and experienced Flutter App-Developers.
    - You can reach me through
    - Email: kamranjalil1006@gmail.com 
-   - LinkedIN: https://www.linkedin.com/in/kamran-jalil-665910210/
+   - LinkedIn: https://www.linkedin.com/in/kamran-jalil-665910210/
    - You can also view my Projects' UIs at my Behance Profile: https://www.behance.net/kamranjalil 
 
 <!---
