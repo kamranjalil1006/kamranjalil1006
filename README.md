@@ -1,11 +1,10 @@
 Hi, I’m Kamran Jalil👋
 
-I am a Flutter App-Developer (Front-end), a Tech Enthusiast, an Astrophile, and a Public Speaker.
+I am a Flutter App-Developer (Full-Stack), Cloud Enthusiast, a Tech Enthusiast, an Astrophile, and a Public Speaker.
 
    - I’m currently persuing my Bachelor's Degree in Computer Systems Engineering From Uet Peshawar.
-   - Apart from Studies, I am constantly working on my App-development skills to polish and improve them.
-   - At the moment I am learning Google's Firebase and planning to study/explore more about AWS and MS-Azure.  
-   - I’m looking for an opportunity to work with and learn from highly skilled and experienced Flutter App-Developers.
+   - Apart from Studies, I am constantly working on my Development skills to polish and improve them.
+   - At the moment I am learning Modern Technologies Like AWS/MS-Azure's Cloud Computing Services and BlockChain.  
    - You can reach me through
    - Email: kamranjalil1006@gmail.com 
    - LinkedIn: https://www.linkedin.com/in/kamran-jalil-665910210/
