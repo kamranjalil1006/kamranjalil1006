@@ -12,7 +12,7 @@
   <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" alt="LinkedIn" width="60">
 </a>
 <a href="mailto:kamranjalil1006@gmail.com">
-  <img src="https://img.icons8.com/color/48/000000/gmail.png"/>
+  <img src="https://img.icons8.com/color/48/000000/gmail.png" width="60" />
 </a>
 
 
