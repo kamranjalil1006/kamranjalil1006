@@ -1,4 +1,4 @@
-![waving hand](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif) Hello Fellow Developers! 
+Hello Fellow Developers ![waving hand](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif) 
 
 I’m Kamran Jalil, a Data Engineer and Flutter Developer 💻.
 
