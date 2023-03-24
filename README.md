@@ -14,7 +14,6 @@
                  
 ## I have Experience with the following Technologies and Tools
 
-# Cloud Service Provider: 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -26,24 +25,18 @@
 ![Amazon EC2](https://img.shields.io/badge/-Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
 ![AWS Glue](https://img.shields.io/badge/-AWS%20Glue-6B4A98?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Amazon CloudWatch](https://img.shields.io/badge/-Amazon%20CloudWatch-FF9900?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
-<p>
-  <!-- Flutter -->
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <!-- Dart -->
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-  <!-- Firebase -->
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <!-- SQLite -->
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-  <!-- Provider -->
-  <img src="https://img.shields.io/badge/Provider-282C34?style=flat-square&logo=flutter&logoColor=white" />
-  <!-- GetX -->
-  <img src="https://img.shields.io/badge/Riverpod-325B6B?style=flat-square&logo=flutter&logoColor=white" />
-  <!-- Flutter Icons -->
-  <img src="https://img.shields.io/badge/Flutter%20Icons-FF8C00?style=flat-square&logo=flutter&logoColor=white" />
-</p>
 
-                 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Provider](https://img.shields.io/badge/Provider-282C34?style=for-the-badge&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/-GetX-2196F3?style=for-the-badge&logo=getx&logoColor=white)
+![Flutter Icons](https://img.shields.io/badge/Flutter%20Icons-FF8C00?style=for-the-badge&logo=flutter&logoColor=white)
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+
 
 ![Kamran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamranjalil1006&show_icons=true&theme=radical)
 
