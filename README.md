@@ -12,6 +12,9 @@
 
 🌟 You can reach me through Email: kamranjalil1006@gmail.com or LinkedIn: https://www.linkedin.com/in/kamran-jalil-665910210/. Let's connect and collaborate to make great things happen in the world of technology!
                  
+![Kamran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamranjalil1006&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamranjalil1006&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 kamranjalil1006/kamranjalil1006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
