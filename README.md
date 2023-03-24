@@ -19,6 +19,23 @@
 ![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FFA500?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Amazon EC2](https://img.shields.io/badge/-Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
 ![AWS Glue](https://img.shields.io/badge/-AWS%20Glue-6B4A98?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon CloudWatch](https://img.shields.io/badge/-Amazon%20CloudWatch-FF9900?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
+<p>
+  <!-- Flutter -->
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <!-- Dart -->
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <!-- Firebase -->
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <!-- SQLite -->
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <!-- Provider -->
+  <img src="https://img.shields.io/badge/Provider-282C34?style=flat-square&logo=flutter&logoColor=white" />
+  <!-- GetX -->
+  <img src="https://img.shields.io/badge/Riverpod-325B6B?style=flat-square&logo=flutter&logoColor=white" />
+  <!-- Flutter Icons -->
+  <img src="https://img.shields.io/badge/Flutter%20Icons-FF8C00?style=flat-square&logo=flutter&logoColor=white" />
+</p>
 
                  
 
