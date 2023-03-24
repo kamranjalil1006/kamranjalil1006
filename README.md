@@ -6,10 +6,9 @@
 
 💼 Also a Data Engineering Intern, with hands-on experience working on AWS. I have a solid understanding of cloud computing technologies, ETL processes and building data pipelines for complex data structures.
 
-🌟 You can reach me through Email: kamranjalil1006@gmail.com or LinkedIn: https://www.linkedin.com/in/kamran-jalil-665910210/. Let's connect and collaborate to make great things happen in the world of technology!
-              
+🌟 You can reach me through:
 <a href="https://www.linkedin.com/in/kamran-jalil-665910210/" target="_blank" rel="noopener">
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" alt="LinkedIn" width="30">
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" alt="LinkedIn" width="60">
 </a>
 
               
