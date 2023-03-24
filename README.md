@@ -1,4 +1,4 @@
-![waving hand](https://cdn.jsdelivr.net/gh/hi-ogawa/emoji-svg/waving_hand_sign.svg) Hello Fellow Developers! 
+Hello Fellow Developers! ![waving hand](https://cdn.glitch.com/2b74ac9d-05d4-4c3f-828c-86ad8a43db38%2Fhand.gif?v=1635452198818)
 
 I’m Kamran Jalil, a Data Engineer and Flutter Developer 💻.
 
