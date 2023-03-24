@@ -11,6 +11,7 @@
 <a href="https://www.linkedin.com/in/kamran-jalil-665910210/" target="_blank" rel="noopener">
   <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" alt="LinkedIn" width="60">
 </a>
+
 <a href="mailto:kamranjalil1006@gmail.com">
   <img src="https://img.icons8.com/color/48/000000/gmail.png" width="70" />
 </a>
