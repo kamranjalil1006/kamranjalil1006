@@ -12,20 +12,14 @@
 
 🌟 You can reach me through Email: kamranjalil1006@gmail.com or LinkedIn: https://www.linkedin.com/in/kamran-jalil-665910210/. Let's connect and collaborate to make great things happen in the world of technology!
                  
-## Languages and Tools
+## Technologies and Tools
 
-* JavaScript
-* Python
-* HTML/CSS
-* React.js
-* Node.js
-* Express.js
-* MongoDB
-* PostgreSQL
-* Git
-* AWS
-* Docker
-* Kubernetes
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FFA500?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/-Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/-AWS%20Glue-6B4A98?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
                  
 
 ![Kamran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamranjalil1006&show_icons=true&theme=radical)
