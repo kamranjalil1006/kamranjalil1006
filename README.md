@@ -44,6 +44,12 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
+
+[Kamran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamranjalil1006&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamranjalil1006&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 ![Kamran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamranjalil1006&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamranjalil1006&layout=compact&theme=radical)]
 
