@@ -4,9 +4,7 @@
 
 🚀 Have experience in developing robust and user-friendly mobile applications using Flutter.
 
-💼 Also a Data Engineering Intern at <a href="https://github.com/kamranjalil" target="_blank">
-  <img src="https://data-maze.com/wp-content/uploads/2022/02/data-maze-logo.png" width="100" height="100" alt="GitHub Profile">
-</a>, with hands-on experience working on AWS. I have a solid understanding of cloud computing technologies, ETL processes and building data pipelines for complex data structures.
+💼 Also a Data Engineering Intern, with hands-on experience working on AWS. I have a solid understanding of cloud computing technologies, ETL processes and building data pipelines for complex data structures.
 
 🌟 You can reach me through Email: kamranjalil1006@gmail.com or LinkedIn: https://www.linkedin.com/in/kamran-jalil-665910210/. Let's connect and collaborate to make great things happen in the world of technology!
                  
