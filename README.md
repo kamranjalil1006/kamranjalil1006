@@ -1,7 +1,7 @@
 Hello Fellow Developers 
          <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50">
 
-🙂 I’m [Kamran Jalil](https://github.com/kamranjalil1006), a Data Engineer and Flutter Developer 💻.
+🙂 I’m [Kamran Jalil](https://github.com/kamranjalil1006), a Flutter Developer and Data Engineer 💻.
 
 🎓 Studying Computer Systems Engineering from Uet Peshawar.
 
