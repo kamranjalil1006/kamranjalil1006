@@ -3,7 +3,7 @@ Hello Fellow Developers
 
 🙂 I’m [Kamran Jalil](https://github.com/kamranjalil1006), a Flutter Developer and Data Engineer 💻.
 
-🎓 Studying Computer Systems Engineering from Uet Peshawar.
+🎓 Studying Computer Systems Engineering from UET Peshawar.
 
 🚀 Have experience in developing robust and user-friendly mobile applications using Flutter.
 
