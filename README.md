@@ -9,7 +9,7 @@ Hello Fellow Developers
 
 🚀 Have experience in developing robust and user-friendly mobile applications using Flutter.
 
-💼 Also a Data Engineering Intern, with hands-on experience working on AWS. I have a solid understanding of cloud computing technologies, ETL processes and building data pipelines for complex data structures.
+💼 As a Data Engineer, with hands-on experience on AWS, I have a solid understanding of cloud computing technologies, ETL processes and building data pipelines for complex data structures.
 
 ### 🌟 Connect with me:
 
