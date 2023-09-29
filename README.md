@@ -3,13 +3,13 @@ Hello Fellow Developers
 
 😊 It's Nice to see you here
 
-🙂 I’m [Kamran Jalil](https://github.com/kamranjalil1006), a Flutter Developer and Data Engineer 💻.
+🙂 I’m [Kamran Jalil](https://github.com/kamranjalil1006), a Data Engineer and Flutter Developer 💻.
 
-🎓 Studying Computer Systems Engineering from UET Peshawar.
+🎓 A Graduate of the Department Computer Systems Engineering, UET Peshawar.
+
+💼 As a Data Engineer, adept in AWS with hands-on experience, I possess a robust understanding of cloud computing technologies, ETL processes, and data pipeline construction. Concurrently expanding expertise in diverse cloud domains, including ongoing studies in DevOps etc.
 
 🚀 Have experience in developing robust and user-friendly mobile applications using Flutter.
-
-💼 As a Data Engineer, with hands-on experience on AWS, I have a solid understanding of cloud computing technologies, ETL processes and building data pipelines.
 
 ### 🌟 Connect with me:
 
